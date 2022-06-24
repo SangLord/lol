@@ -65,6 +65,8 @@ router.get('/login', (req, res) => {
 router.get('/register', (req, res) => {
 	res.sendFile(__path + '/docs/register.html')
 })
+router.get('/docs/403.htm3', (req, res) => {
+	res.sendFile(__path + '/docs/403.html')
 router.get('/config', (req, res) => {
     config = {
         status: true,
