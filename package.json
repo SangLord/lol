@@ -1,5 +1,5 @@
 {
-  "name": "Alphabot-api",
+  "name": "api",
   "version": "1.0.0",
   "description": "res api website",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/LoliKillers/Arnz-Api.git"
+    "url": "git+ssh://git@github.com/wibu-Otakku/El-Api.git"
   },
-  "author": "LolKill & Zee",
+  "author": "El Nino",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeneofc/"
+    "url": "https://github.com/wibu-Otakku/"
   },
-  "homepage": "https://github.com/zeeoneofc",
+  "homepage": "https://github.com/wibu-Otakku",
   "dependencies": {
     "@lolikillers/aexm-api": "github:Aexm47/AEXM47",
     "axios": "^0.21.1",
